@@ -27,3 +27,7 @@ IT 엔지니어를 위한 쉽고 편리한 네트워크 인터페이스 설정 �
 4. [적용] 버튼을 클릭해주세요.
 5. 설정을 저장하고싶으시면, [설정 저장] 버튼을 클릭해주세요.
 6. 저장된 설정을 불러오고 싶으시면 [불러오기] 탭으로 가서 해당 설정 파일 이름의 버튼을 클릭해주세요.
+
+## File Download
+https://1drv.ms/u/c/7ffe1946f71b8255/EarmtQkn0HxJkX3uPP__pJ8B3U-1i8y1gD10oLDXKQvqsw?e=SFvEEQ
+(pw : niconfig123!)
